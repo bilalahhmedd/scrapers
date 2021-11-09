@@ -1,0 +1,1 @@
+# this folder contains scrapers python scripts for tokopedia

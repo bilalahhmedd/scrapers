@@ -1,0 +1,1 @@
+# this folder contains scraped csv files from tokopedia
