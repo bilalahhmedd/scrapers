@@ -1,0 +1,4 @@
+chromedriver_autoinstaller==0.2.2
+selenium==3.141.0
+pandas==1.2.3
+requests==2.26.0
